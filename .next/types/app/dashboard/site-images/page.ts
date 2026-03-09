@@ -1,8 +1,8 @@
-// File: D:\astrobite-freelance\astra-shop-admin\app\dashboard\products\page.tsx
-import * as entry from '../../../../../app/dashboard/products/page.js'
+// File: D:\Intern\Astra\astra-shop-admin\app\dashboard\site-images\page.tsx
+import * as entry from '../../../../../app/dashboard/site-images/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
-type TEntry = typeof import('../../../../../app/dashboard/products/page.js')
+type TEntry = typeof import('../../../../../app/dashboard/site-images/page.js')
 
 // Check that the entry is a valid entry
 checkFields<Diff<{

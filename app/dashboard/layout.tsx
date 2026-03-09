@@ -49,6 +49,7 @@ export default function DashboardLayout({
                 <a href="/dashboard/products" className="px-3 py-2 rounded-md text-sm hover:bg-gray-700">Products</a>
                 <a href="/dashboard/orders" className="px-3 py-2 rounded-md text-sm hover:bg-gray-700">Orders</a>
                 <a href="/dashboard/users" className="px-3 py-2 rounded-md text-sm hover:bg-gray-700">Users</a>
+                <a href="/dashboard/site-images" className="px-3 py-2 rounded-md text-sm hover:bg-gray-700">Site Images</a>
               </div>
             </div>
             <button

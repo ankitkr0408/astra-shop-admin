@@ -26,10 +26,10 @@
       "static/chunks/main-app.js",
       "static/chunks/app/dashboard/layout.js"
     ],
-    "/dashboard/products/page": [
+    "/dashboard/site-images/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/dashboard/products/page.js"
+      "static/chunks/app/dashboard/site-images/page.js"
     ]
   }
 }

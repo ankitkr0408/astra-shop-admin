@@ -78,3 +78,15 @@ export interface ApiResponse<T> {
   message?: string;
   error?: string;
 }
+
+export interface SiteImage {
+  _id: string;
+  key: string;
+  category: string;
+  url: string;
+  publicId: string;
+  alt: string;
+  order: number;
+  createdAt: string;
+  updatedAt: string;
+}

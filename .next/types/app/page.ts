@@ -1,4 +1,4 @@
-// File: D:\astrobite-freelance\astra-shop-admin\app\page.tsx
+// File: D:\Intern\Astra\astra-shop-admin\app\page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
